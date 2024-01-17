@@ -6,7 +6,7 @@ Hi there 👋 , I'm Varidhi.
 
 - 👨‍💻 All of my projects are available at [this github profile](this github profile)
 
-- 💬 Ask me about **DSA,MERN**,ART,CURRENT AFFAIRS
+- 💬 Ask me about **DSA,MERN**,ART,CURRENT AFFAIRS :))
 
 - 📫 How to reach me **varidhirathore2@gmail.com**
 
