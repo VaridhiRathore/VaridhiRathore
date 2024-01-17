@@ -10,7 +10,7 @@ Hi there 👋 , I'm Varidhi.
 
 - 📫 How to reach me **varidhirathore2@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/varidhi-rathore-6984bb222/](https://www.linkedin.com/in/varidhi-rathore-6984bb222/)
+- 📄 Know about my experiences: MY LINKEDIN PROFILE [https://www.linkedin.com/in/varidhi-rathore-6984bb222/](https://www.linkedin.com/in/varidhi-rathore-6984bb222/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
