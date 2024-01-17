@@ -1,6 +1,6 @@
 Hi there 👋 , I'm Varidhi.
 
-[![MaterHead](https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif)]
+#[![MaterHead](https://i.pinimg.com/originals/bb/37/5c/bb375cdd655184ca2715ac5059e73651.gif)]
 <h3 align="center">A passionate MERN developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288752.jpg">
 
