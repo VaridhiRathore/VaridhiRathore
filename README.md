@@ -8,7 +8,7 @@ Hi there 👋 , I'm Varidhi.
 
 - 💬 Ask me about **DSA,MERN**,ART,CURRENT AFFAIRS :))
 
-- 📫 How to reach me **varidhirathore2@gmail.com**
+- 📫 How to reach me **varistuffs@gmail.com**
 
 - 📄 Know about my experiences: MY LINKEDIN PROFILE [https://www.linkedin.com/in/varidhi-rathore-6984bb222/](https://www.linkedin.com/in/varidhi-rathore-6984bb222/)
 
