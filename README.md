@@ -2,13 +2,17 @@ Hi there 👋 , I'm Varidhi.
 
 
 <h3 align="center">A TECH enthusiast from India !</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288752.jpg">
+<img align="right" alt="Coding" width="100" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288752.jpg">
 
 - 👨‍💻 All of my projects are available at (this github profile)
 
 - 💬 Ask me about **DSA,MERN**,ART,CURRENT AFFAIRS :))
 
 - 📫 How to reach me **varistuffs@gmail.com**
+  
+- 👯 I’m looking to collaborate on Web development projects
+
+- 🤝 I’m looking for help with Gaining internship or mentorship
 
 - 📄 Know about my experiences: MY LINKEDIN PROFILE [https://www.linkedin.com/in/varidhi-rathore-6984bb222/](https://www.linkedin.com/in/varidhi-rathore-6984bb222/)
 
