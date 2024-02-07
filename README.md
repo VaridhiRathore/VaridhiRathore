@@ -2,7 +2,7 @@ Hi there 👋 , I'm Varidhi.
 
 
 <h3 align="center">A TECH enthusiast from India !</h3>
-<img align="right" alt="Coding" width="100" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288752.jpg">
+<img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288752.jpg">
 
 - 👨‍💻 All of my projects are available at (this github profile)
 
