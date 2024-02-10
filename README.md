@@ -13,7 +13,7 @@ Hi there 👋 , I'm Varidhi.
   
 - 👯 I’m looking to collaborate on Web development projects
 
-- 🤝 I’m looking for help with Gaining internship or mentorship
+- 🤝 I’m looking for help with Gaining internships or mentorships
 
 - 📄 Know about my experiences: MY LINKEDIN PROFILE [https://www.linkedin.com/in/varidhi-rathore-6984bb222/](https://www.linkedin.com/in/varidhi-rathore-6984bb222/)
 
