@@ -5,15 +5,15 @@ Hi there 👋 , I'm Varidhi.
 
 <img align="right" alt="Coding" width="300" src="https://img.freepik.com/free-vector/programmer-working-desk_23-2148288752.jpg">
 
-- 👨‍💻 All of my projects are available at (this github profile)
+- 👨‍💻 Most of my projects are available at (this github profile)
 
-- 💬 Ask me about **DSA,MERN**,ART,CURRENT AFFAIRS :))
+- 💬 Ask me about **DSA, MERN**, ART, CURRENT AFFAIRS :))
 
 - 📫 How to reach me **varistuffs@gmail.com**
   
 - 👯 I’m looking to collaborate on Web development projects
 
-- 🤝 I’m looking for help with Gaining internships or mentorships
+- 🤝 Open to work
 
 - 📄 Know about my experiences: MY LINKEDIN PROFILE [https://www.linkedin.com/in/varidhi-rathore-6984bb222/](https://www.linkedin.com/in/varidhi-rathore-6984bb222/)
 
