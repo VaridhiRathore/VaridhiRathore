@@ -7,8 +7,6 @@ Hi there 👋 , I'm Varidhi.
 
 - 👨‍💻 Most of my projects are available at (this github profile)
 
-- 💬 Ask me about **DSA, MERN**, ART, CURRENT AFFAIRS :))
-
 - 📫 How to reach me **varistuffs@gmail.com**
   
 - 👯 I’m looking to collaborate on Web development projects
