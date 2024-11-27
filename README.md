@@ -7,10 +7,6 @@ Hi there 👋 , I'm Varidhi.
 
 - 👨‍💻 Most of my projects are available at (this github profile)
 
-- 📫 How to reach me **varistuffs@gmail.com**
-  
-- 👯 I’m looking to collaborate on Web development projects
-
 - 🤝 Open to work
 
 - 📄 Know about my experiences: MY LINKEDIN PROFILE [https://www.linkedin.com/in/varidhi-rathore-6984bb222/](https://www.linkedin.com/in/varidhi-rathore-6984bb222/)
